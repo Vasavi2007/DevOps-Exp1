@@ -12,7 +12,7 @@ class Hello {
     }
 
     public static void main(String[] args) {
-        Solution obj = new Solution();
+        Hello obj = new Hello();
 
         int n = 5;
         int start = 0;
